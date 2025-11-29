@@ -1,9 +1,42 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于&用户协议
+
+最后更新日期：2025年11月
+
+## 概述
+
+本站为静态部署页面，采用Fuwari框架，并使用MIT协议开源于Github，。本协议将说明当您访问我们的网站时，可能收集、使用和披露您信息的方式。
 
 ::github{repo="saicaca/fuwari"}
+::github{repo="wumengsangeng/AcwFock"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 网站性质
+
+本站为静态页面，这意味着：
+
+- 我们不会在服务器端存储您的个人信息
+- 网站内容是预生成的，不会动态处理用户数据
+- 我们不会主动收集或存储您的个人信息
+
+## 第三方授权
+
+本站暂时未接入第三方服务，后续如接入服务，第三方服务可能会收集和处理您的信息，我们将在本页面更新说明相关内容，此类更新非重大更新。
+
+## 协议更新
+
+我们会根据需要更新本协议，任何更改都会发布再本页面，除重大更新将不会另行通知，请自行关注本页面。
+
+## 版权举报
+
+如果您发现网站内容存在滥用、侵权或其他违法违规行为，请通过以下方式联系我们：
+
+- 邮箱：[wumengsangeng@gmail.com](wumengsangeng@gmail.com)
+
+我们会认真对待，第一时间移除相关内容。
+
+## 争议管辖
+
+本协议受中华人民共和国法律管辖。
+
+---
+
+*本协议可能不定时更新，我们建议您定期查看本政策以了解任何更新。*
