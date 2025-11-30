@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
-		  src: 'https://gravatar.com/avatar/d8858d8f16c03f9a4b765e420426e11a73ff88eefd72e76ac1fe55ff0f2f7869?s=32',    // Path of the favicon, relative to the /public directory
+		  src: 'assets/images/favicon.png',    // Path of the favicon, relative to the /public directory
 		//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 		  sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		}
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://gravatar.com/avatar/d8858d8f16c03f9a4b765e420426e11a73ff88eefd72e76ac1fe55ff0f2f7869?s=1024", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "无梦三更",
 	bio: "又活过一天.",
 	links: [
